@@ -1,6 +1,6 @@
 ## Hi there ✨
 
-👩🏻‍💻 I'm Sondos, a Software Engineering Student that's passionate about learning new things !
+👩🏻‍💻 I'm Sondos, a Software Engineering Student
 
 
 <!-- [![Sondos's GitHub stats](https://github-readme-stats.vercel.app/api?username=SondosDeeb24&show_icons=true&theme=onedark)](https://github.com/SondosDeeb24/github-readme-stats)--> 
